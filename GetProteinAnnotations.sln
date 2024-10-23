@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GetProteinAnnotations", "GetProteinAnnotations\GetProteinAnnotations.pyproj", "{31D1EAAF-A319-48B0-B2F3-3EF399F1688A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D1EAAF-A319-48B0-B2F3-3EF399F1688A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D1EAAF-A319-48B0-B2F3-3EF399F1688A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B69F0285-447C-496B-BEFA-330D785B6576}
+	EndGlobalSection
+EndGlobal
